@@ -24,8 +24,12 @@ Par défaut la version est à "latest", mais vous pouvez choisir la version que 
 
 ### Tomcat/Nginx
 
-Lancez un conteneur tomcat avec le docker CLI sur le port 9876.
+Lancez un conteneur tomcat avec le docker CLI sur le port 9876. Lancez votre navigateur sur localhost:9876.
 
-Lancez maintenant nginx sur un autre port. Cette fois-ci, trouvez un moyen de fermer le terminal sans couper nginx.
+Lancez maintenant nginx sur un autre port. Cette fois-ci, trouvez un moyen de fermer le terminal sans couper nginx. Testez sur votre navigateur.
 
 Remplacez le fichier index.html par défaut dans nginx par celui qui a été mis à disposition.
+
+
+
+On a terminé pour aujourd'hui !
