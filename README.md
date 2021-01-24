@@ -3,7 +3,7 @@
 ### Docker
 
 Installez docker sur vos machines.
-Il s'agit d'un logiciel principalement disponible sur linux et sur windows et macOS il est donc plus difficilement installable car il faut virtualiser linux.
+Il s'agit d'un logiciel principalement disponible sur linux, sur windows et macOS il est plus difficilement installable car il faut virtualiser linux.
 
 On va commencer par lancer l'image "hello-world".
 
