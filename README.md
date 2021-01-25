@@ -7,7 +7,7 @@ Il s'agit d'un logiciel principalement disponible sur linux, sur windows et macO
 
 On va commencer par lancer l'image "hello-world".
 
-Puis on va lancer une image Linux légère. Entrez dans le conteneur et éditez un fichier nommé "hello.txt" avec écrit à l'intérieur "Welcome to DBZ !" dans n'importe quel répertoire. Sortez du conteneur et visualisez le contenu du fichier depuis le CLI.
+Puis on va lancer une image Linux légère. Entrez dans le conteneur et éditez un fichier nommé "hello.txt" avec écrit à l'intérieur "Welcome to DBZ!" dans n'importe quel répertoire. Sortez du conteneur et visualisez le contenu du fichier depuis le CLI.
 
 Maintenant on lance MySQL et PostgreSQL.
 
