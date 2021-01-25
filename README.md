@@ -5,9 +5,9 @@
 Installez docker sur vos machines.
 Il s'agit d'un logiciel principalement disponible sur linux, sur windows et macOS il est plus difficilement installable car il faut virtualiser linux.
 
-On va commencer par lancer l'image "hello-world".
+On va commencer par lancer l'image `hello-world`.
 
-Puis on va lancer une image Linux légère. Entrez dans le conteneur et éditez un fichier nommé "hello.txt" avec écrit à l'intérieur "Welcome to DBZ!" dans n'importe quel répertoire. Sortez du conteneur et visualisez le contenu du fichier depuis le CLI.
+Puis on va lancer une image Linux légère. Entrez dans le conteneur et éditez un fichier nommé `hello.txt` avec écrit à l'intérieur "Welcome to DBZ!" dans n'importe quel répertoire. Sortez du conteneur et visualisez le contenu du fichier depuis le CLI.
 
 Maintenant on lance MySQL et PostgreSQL.
 
@@ -20,7 +20,7 @@ Ne visualisez pas docker et ses conteneurs comme des instances précieuse à ne 
 
 Note supplémentaire :
 Les images se situent sur le docker hub. Il en existe des tas, allant de OracleSQL à MongoDB, ou de Windows à Linux. Jettez un oeuil si vous avez un doute sur le nom d'une image.
-Par défaut la version est à "latest", mais vous pouvez choisir la version que vous voulez.
+Par défaut la version est à `latest`, mais vous pouvez choisir la version que vous voulez.
 
 ### Tomcat/Nginx
 
